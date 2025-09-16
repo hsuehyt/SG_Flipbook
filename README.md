@@ -2,7 +2,8 @@
 
 Unity Shader Graph for flipbook sprites, seamlessly tiling and scaling loops like rain or snow on GameObject-based skyboxes.
 
-—
+![Shader Graph](https://github.com/hsuehyt/SG_Flipbook/blob/main/images/ShaderGraph.png)
+
 WHAT IT’S FOR
 • Flipbook sprite rain, snow, sparkles, flowing noise, fireflies, etc.
 • Works on any mesh (planes, domes, cubes), including GO-based skyboxes.
@@ -16,6 +17,8 @@ WHY A GAMEOBJECT-BASED SKYBOX
 REQUIREMENTS
 • Unity 6.x URP with Shader Graph
 • A uniform grid sprite sheet (Columns × Rows), PNG preferred
+
+![Inspector](https://github.com/hsuehyt/SG_Flipbook/blob/main/images/inspector.png)
 
 QUICK START
 
